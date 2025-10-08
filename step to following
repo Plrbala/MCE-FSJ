@@ -1,0 +1,14 @@
+Go to spring initializr
+
+Project : select : maven
+Language : select : java
+Spring Boot: select :3.5.6(latest version)
+Project Metadata
+Group: edu.mce
+Artifact:studentapplication
+Packaging: select :JAR
+java:select: 17
+
+Dependencies : add dependenices 
+
+spring web
